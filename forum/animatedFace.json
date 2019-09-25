@@ -3,14 +3,14 @@
   "id": "nodeMat",
   "uniqueId": 2,
   "name": "nodeMat",
-  "checkReadyOnEveryCall": false,
+  "checkReadyOnEveryCall": true,
   "checkReadyOnlyOnce": false,
   "state": "",
   "alpha": 1,
   "backFaceCulling": true,
   "sideOrientation": 1,
   "alphaMode": 2,
-  "_needDepthPrePass": false,
+  "_needDepthPrePass": true,
   "disableDepthWrite": false,
   "forceDepthWrite": false,
   "separateCullingPass": false,
@@ -407,7 +407,10 @@
           "name": "targetMin"
         },
         {
-          "name": "targetMax"
+          "name": "targetMax",
+          "inputName": "targetMax",
+          "targetBlockId": 126,
+          "targetConnectionName": "output"
         }
       ],
       "sourceRange": [
@@ -480,7 +483,7 @@
       "matrixMode": 0,
       "isConstant": false,
       "valueType": "number",
-      "value": 24.861045000000715
+      "value": 66.25434000000114
     },
     {
       "customType": "BABYLON.InputBlock",
@@ -497,6 +500,23 @@
       "isConstant": false,
       "valueType": "number",
       "value": 3
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 126,
+      "name": "waveHeight",
+      "inputs": [],
+      "type": 1,
+      "mode": 0,
+      "systemValue": null,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 0,
+      "matrixMode": 0,
+      "isConstant": false,
+      "valueType": "number",
+      "value": 0.2
     },
     {
       "customType": "BABYLON.InputBlock",
@@ -758,6 +778,11 @@
       "blockId": 32,
       "x": 0,
       "y": 924
+    },
+    {
+      "blockId": 126,
+      "x": 1245,
+      "y": 805
     }
   ]
 }
