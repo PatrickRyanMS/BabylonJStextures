@@ -1,8 +1,8 @@
 {
   "tags": null,
-  "id": "node",
-  "uniqueId": 1,
-  "name": "node",
+  "id": "nodeMat",
+  "uniqueId": 2,
+  "name": "nodeMat",
   "checkReadyOnEveryCall": false,
   "checkReadyOnlyOnce": false,
   "state": "",
@@ -22,38 +22,38 @@
   "fillMode": 0,
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
-    7,
-    9
+    3,
+    29
   ],
   "blocks": [
     {
       "customType": "BABYLON.VertexOutputBlock",
-      "id": 7,
+      "id": 3,
       "name": "vertexOutput",
-      "inputs": [
-        {
-          "name": "vector",
-          "inputName": "vector",
-          "targetBlockId": 6,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.TransformBlock",
-      "id": 6,
-      "name": "worldPos * viewProjectionTransform",
       "inputs": [
         {
           "name": "vector",
           "inputName": "vector",
           "targetBlockId": 4,
           "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.TransformBlock",
+      "id": 4,
+      "name": "worldPos * viewProjectionTransform",
+      "inputs": [
+        {
+          "name": "vector",
+          "inputName": "vector",
+          "targetBlockId": 5,
+          "targetConnectionName": "output"
         },
         {
           "name": "transform",
           "inputName": "transform",
-          "targetBlockId": 5,
+          "targetBlockId": 28,
           "targetConnectionName": "output"
         }
       ],
@@ -62,19 +62,19 @@
     },
     {
       "customType": "BABYLON.TransformBlock",
-      "id": 4,
+      "id": 5,
       "name": "worldPos",
       "inputs": [
         {
           "name": "vector",
           "inputName": "vector",
-          "targetBlockId": 1373,
+          "targetBlockId": 6,
           "targetConnectionName": "xyz"
         },
         {
           "name": "transform",
           "inputName": "transform",
-          "targetBlockId": 3,
+          "targetBlockId": 27,
           "targetConnectionName": "output"
         }
       ],
@@ -83,25 +83,25 @@
     },
     {
       "customType": "BABYLON.VectorMergerBlock",
-      "id": 1373,
+      "id": 6,
       "name": "VectorMerger",
       "inputs": [
         {
           "name": "x",
           "inputName": "x",
-          "targetBlockId": 1102,
+          "targetBlockId": 7,
           "targetConnectionName": "x"
         },
         {
           "name": "y",
           "inputName": "y",
-          "targetBlockId": 1128,
+          "targetBlockId": 9,
           "targetConnectionName": "output"
         },
         {
           "name": "z",
           "inputName": "z",
-          "targetBlockId": 1102,
+          "targetBlockId": 7,
           "targetConnectionName": "z"
         },
         {
@@ -111,7 +111,7 @@
     },
     {
       "customType": "BABYLON.VectorSplitterBlock",
-      "id": 1102,
+      "id": 7,
       "name": "VectorSplitter",
       "inputs": [
         {
@@ -120,7 +120,7 @@
         {
           "name": "xyz ",
           "inputName": "xyz ",
-          "targetBlockId": 2,
+          "targetBlockId": 8,
           "targetConnectionName": "output"
         },
         {
@@ -130,12 +130,11 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 2,
+      "id": 8,
       "name": "position",
       "inputs": [],
       "type": 8,
       "mode": 1,
-      "systemValue": null,
       "animationType": 0,
       "visibleInInspector": false,
       "min": 0,
@@ -145,83 +144,83 @@
     },
     {
       "customType": "BABYLON.AddBlock",
-      "id": 1128,
+      "id": 9,
       "name": "Add",
       "inputs": [
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 26370,
+          "targetBlockId": 10,
           "targetConnectionName": "output"
         },
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 1102,
+          "targetBlockId": 7,
           "targetConnectionName": "y"
         }
       ]
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 26370,
+      "id": 10,
       "name": "Multiply",
       "inputs": [
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 61536,
+          "targetBlockId": 11,
           "targetConnectionName": "output"
         },
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 1138,
+          "targetBlockId": 21,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.OneMinusBlock",
-      "id": 61536,
+      "id": 11,
       "name": "One minus",
       "inputs": [
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 1884,
+          "targetBlockId": 12,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 1884,
+      "id": 12,
       "name": "Step",
       "inputs": [
         {
           "name": "value",
           "inputName": "value",
-          "targetBlockId": 31200,
+          "targetBlockId": 13,
           "targetConnectionName": "output"
         },
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 24691,
+          "targetBlockId": 20,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.TrigonometryBlock",
-      "id": 31200,
+      "id": 13,
       "name": "Abs",
       "inputs": [
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 53787,
+          "targetBlockId": 14,
           "targetConnectionName": "output"
         }
       ],
@@ -229,26 +228,26 @@
     },
     {
       "customType": "BABYLON.SubtractBlock",
-      "id": 53787,
+      "id": 14,
       "name": "Subtract",
       "inputs": [
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 1962,
+          "targetBlockId": 15,
           "targetConnectionName": "r"
         },
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 1959,
+          "targetBlockId": 18,
           "targetConnectionName": "r"
         }
       ]
     },
     {
       "customType": "BABYLON.ColorSplitterBlock",
-      "id": 1962,
+      "id": 15,
       "name": "ColorSplitter",
       "inputs": [
         {
@@ -257,20 +256,20 @@
         {
           "name": "rgb ",
           "inputName": "rgb ",
-          "targetBlockId": 200,
+          "targetBlockId": 16,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.GradientBlock",
-      "id": 200,
+      "id": 16,
       "name": "Gradient",
       "inputs": [
         {
           "name": "gradient",
           "inputName": "gradient",
-          "targetBlockId": 228,
+          "targetBlockId": 17,
           "targetConnectionName": "output"
         }
       ],
@@ -327,14 +326,13 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 228,
+      "id": 17,
       "name": "faceToAnimate",
       "inputs": [],
       "type": 1,
       "mode": 0,
-      "systemValue": null,
       "animationType": 0,
-      "visibleInInspector": false,
+      "visibleInInspector": true,
       "min": 0,
       "max": 0.5,
       "matrixMode": 0,
@@ -344,13 +342,13 @@
     },
     {
       "customType": "BABYLON.ColorSplitterBlock",
-      "id": 1959,
+      "id": 18,
       "name": "ColorSplitter",
       "inputs": [
         {
           "name": "rgba",
           "inputName": "rgba",
-          "targetBlockId": 944,
+          "targetBlockId": 19,
           "targetConnectionName": "output"
         },
         {
@@ -360,12 +358,11 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 944,
+      "id": 19,
       "name": "color",
       "inputs": [],
       "type": 64,
       "mode": 1,
-      "systemValue": null,
       "animationType": 0,
       "visibleInInspector": false,
       "min": 0,
@@ -375,12 +372,11 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 24691,
+      "id": 20,
       "name": "Float",
       "inputs": [],
       "type": 1,
       "mode": 0,
-      "systemValue": null,
       "animationType": 0,
       "visibleInInspector": false,
       "min": 0,
@@ -392,13 +388,13 @@
     },
     {
       "customType": "BABYLON.RemapBlock",
-      "id": 1138,
+      "id": 21,
       "name": "Remap",
       "inputs": [
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 1605,
+          "targetBlockId": 22,
           "targetConnectionName": "output"
         },
         {
@@ -425,13 +421,13 @@
     },
     {
       "customType": "BABYLON.WaveBlock",
-      "id": 1605,
+      "id": 22,
       "name": "Triangle wave",
       "inputs": [
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 1011,
+          "targetBlockId": 23,
           "targetConnectionName": "output"
         }
       ],
@@ -439,13 +435,13 @@
     },
     {
       "customType": "BABYLON.TrigonometryBlock",
-      "id": 1011,
+      "id": 23,
       "name": "Fract",
       "inputs": [
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 67440,
+          "targetBlockId": 24,
           "targetConnectionName": "output"
         }
       ],
@@ -453,31 +449,30 @@
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 67440,
+      "id": 24,
       "name": "Multiply",
       "inputs": [
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 1008,
+          "targetBlockId": 25,
           "targetConnectionName": "output"
         },
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 67475,
+          "targetBlockId": 26,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 1008,
+      "id": 25,
       "name": "Time",
       "inputs": [],
       "type": 1,
       "mode": 0,
-      "systemValue": null,
       "animationType": 1,
       "visibleInInspector": false,
       "min": 0,
@@ -485,18 +480,17 @@
       "matrixMode": 0,
       "isConstant": false,
       "valueType": "number",
-      "value": 0
+      "value": 24.861045000000715
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 67475,
+      "id": 26,
       "name": "waveSpeed",
       "inputs": [],
       "type": 1,
       "mode": 0,
-      "systemValue": null,
       "animationType": 0,
-      "visibleInInspector": false,
+      "visibleInInspector": true,
       "min": 0,
       "max": 0,
       "matrixMode": 0,
@@ -506,7 +500,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 3,
+      "id": 27,
       "name": "world",
       "inputs": [],
       "type": 128,
@@ -521,7 +515,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 5,
+      "id": 28,
       "name": "viewProjection",
       "inputs": [],
       "type": 128,
@@ -536,7 +530,7 @@
     },
     {
       "customType": "BABYLON.FragmentOutputBlock",
-      "id": 9,
+      "id": 29,
       "name": "fragmentOutput",
       "inputs": [
         {
@@ -545,7 +539,7 @@
         {
           "name": "rgb",
           "inputName": "rgb",
-          "targetBlockId": 41,
+          "targetBlockId": 30,
           "targetConnectionName": "rgb"
         },
         {
@@ -555,13 +549,13 @@
     },
     {
       "customType": "BABYLON.TextureBlock",
-      "id": 41,
+      "id": 30,
       "name": "Texture",
       "inputs": [
         {
           "name": "uv",
           "inputName": "uv",
-          "targetBlockId": 42,
+          "targetBlockId": 32,
           "targetConnectionName": "output"
         }
       ],
@@ -606,12 +600,11 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 42,
+      "id": 32,
       "name": "uv",
       "inputs": [],
       "type": 4,
       "mode": 1,
-      "systemValue": null,
       "animationType": 0,
       "visibleInInspector": false,
       "min": 0,
@@ -622,149 +615,149 @@
   ],
   "locations": [
     {
-      "blockId": 7,
-      "x": 1009.591836734694,
-      "y": 157.92857142857142
-    },
-    {
-      "blockId": 6,
-      "x": 759.591836734694,
-      "y": 144.92857142857142
+      "blockId": 3,
+      "x": 3000,
+      "y": 496
     },
     {
       "blockId": 4,
-      "x": 509.5918367346939,
-      "y": 61.42857142857143
-    },
-    {
-      "blockId": 2,
-      "x": -550.469387755102,
-      "y": -17.387755102040856
-    },
-    {
-      "blockId": 3,
-      "x": 259.5918367346939,
-      "y": 155.92857142857142
+      "x": 2750,
+      "y": 483
     },
     {
       "blockId": 5,
-      "x": 509.5918367346939,
-      "y": 237.42857142857142
+      "x": 2500,
+      "y": 399.5
+    },
+    {
+      "blockId": 6,
+      "x": 2250,
+      "y": 238
+    },
+    {
+      "blockId": 7,
+      "x": 1750,
+      "y": 39.5
+    },
+    {
+      "blockId": 8,
+      "x": 1500,
+      "y": 108.5
     },
     {
       "blockId": 9,
-      "x": 971.0204081632658,
-      "y": 402.5714285714286
+      "x": 2000,
+      "y": 398
     },
     {
-      "blockId": 41,
-      "x": 680.1266799402683,
-      "y": 402.93114318898296
+      "blockId": 10,
+      "x": 1750,
+      "y": 408
     },
     {
-      "blockId": 42,
-      "x": 401.55525136883966,
-      "y": 401.5025717604115
+      "blockId": 11,
+      "x": 1500,
+      "y": 307.5
     },
     {
-      "blockId": 200,
-      "x": -1847.9979172670369,
-      "y": -517.7428632557006
+      "blockId": 12,
+      "x": 1250,
+      "y": 294.5
     },
     {
-      "blockId": 228,
-      "x": -2118.263223389486,
-      "y": -516.2428632557006
+      "blockId": 13,
+      "x": 1000,
+      "y": 223
     },
     {
-      "blockId": 944,
-      "x": -1850.197773505136,
-      "y": -344.42992906345586
+      "blockId": 14,
+      "x": 750,
+      "y": 214
     },
     {
-      "blockId": 1008,
-      "x": -1858.9165964245028,
-      "y": -157.5120888363114
+      "blockId": 15,
+      "x": 500,
+      "y": 0
     },
     {
-      "blockId": 1011,
-      "x": -1317.875780097972,
-      "y": -144.8386194485563
+      "blockId": 16,
+      "x": 250,
+      "y": 71
     },
     {
-      "blockId": 1102,
-      "x": -291.11047397552244,
-      "y": -43.26719087712783
+      "blockId": 17,
+      "x": 0,
+      "y": 72
     },
     {
-      "blockId": 1128,
-      "x": -37.8553719347062,
-      "y": -95.52229291794409
+      "blockId": 18,
+      "x": 500,
+      "y": 302
     },
     {
-      "blockId": 1138,
-      "x": -779.4982290775636,
-      "y": -145.787599040393
+      "blockId": 19,
+      "x": 250,
+      "y": 374
     },
     {
-      "blockId": 1373,
-      "x": 254.79768928978368,
-      "y": -4.910048019984913
+      "blockId": 20,
+      "x": 1000,
+      "y": 490.5
     },
     {
-      "blockId": 1605,
-      "x": -1044.814555608176,
-      "y": -142.38963985671955
+      "blockId": 21,
+      "x": 1500,
+      "y": 610
     },
     {
-      "blockId": 1884,
-      "x": -807.0467594945153,
-      "y": -352.1990822939812
+      "blockId": 22,
+      "x": 1250,
+      "y": 687
     },
     {
-      "blockId": 1959,
-      "x": -1587.3473160807862,
-      "y": -339.4309932401779
+      "blockId": 23,
+      "x": 1000,
+      "y": 683
     },
     {
-      "blockId": 1962,
-      "x": -1587.0718058767047,
-      "y": -535.1044626279331
+      "blockId": 24,
+      "x": 750,
+      "y": 674
     },
     {
-      "blockId": 24691,
-      "x": -1052.4233991455912,
-      "y": -256.80743759782524
+      "blockId": 25,
+      "x": 500,
+      "y": 604
     },
     {
-      "blockId": 26370,
-      "x": -300.3369329801774,
-      "y": -168.58939248504333
+      "blockId": 26,
+      "x": 500,
+      "y": 762
     },
     {
-      "blockId": 31200,
-      "x": -1061.8995733473303,
-      "y": -390.930374810988
+      "blockId": 27,
+      "x": 2250,
+      "y": 518
     },
     {
-      "blockId": 53787,
-      "x": -1328.344023633886,
-      "y": -389.0548030143635
+      "blockId": 28,
+      "x": 2500,
+      "y": 575.5
     },
     {
-      "blockId": 61536,
-      "x": -555.8440236338854,
-      "y": -254.0548030143632
+      "blockId": 29,
+      "x": 500,
+      "y": 920
     },
     {
-      "blockId": 67440,
-      "x": -1584.8440236338865,
-      "y": -144.55480301436305
+      "blockId": 30,
+      "x": 250,
+      "y": 856
     },
     {
-      "blockId": 67475,
-      "x": -1842.3440236338865,
-      "y": -54.55480301436297
+      "blockId": 32,
+      "x": 0,
+      "y": 924
     }
   ]
 }
