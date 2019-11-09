@@ -315,7 +315,7 @@
       ],
       "texture": {
         "tags": null,
-        "url": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/moon/assets/moonMat_normal.png",
+        "url": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/moon/assets/MoonMat_normal.png",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -328,7 +328,7 @@
         "wRotationCenter": 0.5,
         "isBlocking": true,
         "uniqueId": 1617,
-        "name": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/moon/assets/moonMat_normal.png",
+        "name": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/moon/assets/MoonMat_normal.png",
         "hasAlpha": false,
         "getAlphaFromRGB": false,
         "level": 1,
