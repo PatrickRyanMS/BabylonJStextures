@@ -945,7 +945,7 @@
       "matrixMode": 0,
       "isConstant": false,
       "valueType": "number",
-      "value": 0
+      "value": 0.5
     },
     {
       "customType": "BABYLON.StepBlock",
