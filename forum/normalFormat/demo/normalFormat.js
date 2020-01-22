@@ -20,12 +20,12 @@ var createScene = function () {
     dirLight1.direction = new BABYLON.Vector3(0.5, -0.75, -0.4);
     dirLight1.intensity = 1.0;
 
-    var planeMesh = BABYLON.MeshBuilder.CreatePlane("planeMesh", {width: 5, height: 5}, scene);
-    planeMesh.position = new BABYLON.Vector3(0, 6, 0);
-    planeMesh.rotation.y = Math.PI;
-    var planeMat = new BABYLON.StandardMaterial("planeMat", scene);
-    planeMat = new BABYLON.Texture("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directX_normal.png")
-    planeMesh.material = planeMat;
+    // var planeMesh = BABYLON.MeshBuilder.CreatePlane("planeMesh", {width: 5, height: 5}, scene);
+    // planeMesh.position = new BABYLON.Vector3(0, 6, 0);
+    // planeMesh.rotation.y = Math.PI;
+    // var planeMat = new BABYLON.StandardMaterial("planeMat", scene);
+    // planeMat = new BABYLON.Texture("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directX_normal.png")
+    // planeMesh.material = planeMat;
 
     // Load assets 
     // promises.push(BABYLON.SceneLoader.AppendAsync(""));
