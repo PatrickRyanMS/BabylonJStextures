@@ -26,7 +26,7 @@ var createScene = function () {
     promises.push(BABYLON.SceneLoader.AppendAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/normalFormatTest.glb"));
     promises.push(BABYLON.SceneLoader.AppendAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/normalFormatTest.babylon"));
     promises.push(directXMat.loadAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directXnodeMat.json"));
-    promises.push(directX_invMat.loadAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directXNode_InverY_Mat.json"));
+    promises.push(directX_invMat.loadAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directXNode_InvertY_Mat.json"));
 
     // Callback when assets are loaded
     Promise.all(promises).then(function() {
@@ -36,6 +36,7 @@ var createScene = function () {
         var babylonDXMesh = scene.getMeshByName("directX1_babylon");
 
         //Build and assign node materials
+        directX_invMat.build(true);
         directXMat.build(true);
         directXMesh.material = directXMat;
         babylonDXMesh.material = directX_invMat;
