@@ -12,8 +12,10 @@ var createScene = function () {
     camera.attachControl(canvas, true);
     scene.clearColor = new BABYLON.Color3(0.1, 0.1, 0.1);
 
-    // Create node materials
+    // DirectX format normal texture in node material
     var directXMat = new BABYLON.NodeMaterial("directXMat", scene, { emitComments: false });
+    // DirectX format normal texture in node material with inverted V in UVs
+    var directX_invMat = new BABYLON.NodeMaterial("directX_invMat", scene, { emitComments: false });
 
     // Lights
     var dirLight1 = new BABYLON.DirectionalLight("dirLight1", new BABYLON.Vector3(0, 0, 0), scene);
@@ -24,6 +26,7 @@ var createScene = function () {
     promises.push(BABYLON.SceneLoader.AppendAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/normalFormatTest.glb"));
     promises.push(BABYLON.SceneLoader.AppendAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/normalFormatTest.babylon"));
     promises.push(directXMat.loadAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directXnodeMat.json"));
+    promises.push(directX_invMat.loadAsync("https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/forum/normalFormat/directXNode_InverY_Mat.json"));
 
     // Callback when assets are loaded
     Promise.all(promises).then(function() {
@@ -35,7 +38,7 @@ var createScene = function () {
         //Build and assign node materials
         directXMat.build(true);
         directXMesh.material = directXMat;
-        babylonDXMesh.material = directXMat;
+        babylonDXMesh.material = directX_invMat;
 
         // display loading screen while loading assets
         engine.displayLoadingUI();  
