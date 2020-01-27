@@ -478,7 +478,7 @@
       ],
       "texture": {
         "tags": null,
-        "url": "assets/greySnapper_normal.png",
+        "url": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/underwater/assets/greySnapper_normal.png",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -491,7 +491,7 @@
         "wRotationCenter": 0.5,
         "isBlocking": true,
         "uniqueId": 358,
-        "name": "assets/greySnapper_normal.png",
+        "name": "https://raw.githubusercontent.com/PatrickRyanMS/BabylonJStextures/master/Demos/underwater/assets/greySnapper_normal.png",
         "hasAlpha": false,
         "getAlphaFromRGB": false,
         "level": 1,
