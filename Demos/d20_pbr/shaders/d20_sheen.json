@@ -115,74 +115,74 @@
       },
       {
         "blockId": 37,
-        "x": -180,
-        "y": 1380
-      },
-      {
-        "blockId": 38,
-        "x": 640,
-        "y": 1240
-      },
-      {
-        "blockId": 39,
-        "x": 120,
-        "y": 1300
-      },
-      {
-        "blockId": 40,
-        "x": 620,
-        "y": 180
-      },
-      {
-        "blockId": 41,
-        "x": -180,
-        "y": 1600
-      },
-      {
-        "blockId": 112,
-        "x": 120,
-        "y": 1780
-      },
-      {
-        "blockId": 142,
-        "x": -180,
-        "y": 1480
-      },
-      {
-        "blockId": 624,
         "x": 120,
         "y": 1520
       },
       {
-        "blockId": 15814,
+        "blockId": 38,
+        "x": -180,
+        "y": 1380
+      },
+      {
+        "blockId": 39,
+        "x": -180,
+        "y": 1480
+      },
+      {
+        "blockId": 40,
+        "x": -180,
+        "y": 1600
+      },
+      {
+        "blockId": 41,
         "x": 640,
-        "y": 1820
+        "y": 1240
       },
       {
-        "blockId": 15889,
+        "blockId": 42,
+        "x": 640,
+        "y": 1360
+      },
+      {
+        "blockId": 43,
         "x": 120,
-        "y": 1880
+        "y": 1300
       },
       {
-        "blockId": 16366,
-        "x": 120,
-        "y": 1680
-      },
-      {
-        "blockId": 16758,
+        "blockId": 44,
         "x": 120,
         "y": 1400
       },
       {
-        "blockId": 16899,
+        "blockId": 45,
+        "x": 620,
+        "y": 180
+      },
+      {
+        "blockId": 46,
         "x": 640,
-        "y": 1360
+        "y": 1820
+      },
+      {
+        "blockId": 47,
+        "x": 120,
+        "y": 1680
+      },
+      {
+        "blockId": 48,
+        "x": 120,
+        "y": 1780
+      },
+      {
+        "blockId": 49,
+        "x": 120,
+        "y": 1880
       }
     ],
     "frames": [],
-    "x": 323.9486205189351,
-    "y": 174.8723674791441,
-    "zoom": 0.4661939724133511
+    "x": 283.84348257082866,
+    "y": 47.759604227058475,
+    "zoom": 0.5128133696546862
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -436,7 +436,7 @@
         {
           "name": "baseColor",
           "inputName": "baseColor",
-          "targetBlockId": 624,
+          "targetBlockId": 37,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -444,7 +444,7 @@
         {
           "name": "metallic",
           "inputName": "metallic",
-          "targetBlockId": 38,
+          "targetBlockId": 41,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -452,7 +452,7 @@
         {
           "name": "roughness",
           "inputName": "roughness",
-          "targetBlockId": 16899,
+          "targetBlockId": 42,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -472,7 +472,7 @@
         {
           "name": "reflection",
           "inputName": "reflection",
-          "targetBlockId": 40,
+          "targetBlockId": 45,
           "targetConnectionName": "reflection",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -483,7 +483,7 @@
         {
           "name": "sheen",
           "inputName": "sheen",
-          "targetBlockId": 15814,
+          "targetBlockId": 46,
           "targetConnectionName": "sheen",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -860,7 +860,7 @@
       "fragmentOnly": false,
       "texture": {
         "tags": null,
-        "url": "data:assets/gltf/d20_normal.png",
+        "url": "data:https://patrickryanms.github.io/BabylonJStextures/Demos/d20_pbr/gltf/d20_normal.png",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -935,7 +935,7 @@
     },
     {
       "customType": "BABYLON.LerpBlock",
-      "id": 624,
+      "id": 37,
       "name": "Lerp",
       "comments": "",
       "visibleInInspector": false,
@@ -944,7 +944,7 @@
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 37,
+          "targetBlockId": 38,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -952,7 +952,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 142,
+          "targetBlockId": 39,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -960,7 +960,7 @@
         {
           "name": "gradient",
           "inputName": "gradient",
-          "targetBlockId": 41,
+          "targetBlockId": 40,
           "targetConnectionName": "r",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -974,7 +974,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 37,
+      "id": 38,
       "name": "baseColor",
       "comments": "",
       "visibleInInspector": true,
@@ -995,17 +995,17 @@
       "isConstant": false,
       "groupInInspector": "",
       "convertToGammaSpace": false,
-      "convertToLinearSpace": false,
+      "convertToLinearSpace": true,
       "valueType": "BABYLON.Color3",
       "value": [
-        0.06274509803921569,
-        0.1843137254901961,
-        0.4196078431372549
+        0.3764705882352941,
+        0.5333333333333333,
+        0.8431372549019608
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 142,
+      "id": 39,
       "name": "numberColor",
       "comments": "",
       "visibleInInspector": true,
@@ -1026,7 +1026,7 @@
       "isConstant": false,
       "groupInInspector": "",
       "convertToGammaSpace": false,
-      "convertToLinearSpace": false,
+      "convertToLinearSpace": true,
       "valueType": "BABYLON.Color3",
       "value": [
         1,
@@ -1036,7 +1036,7 @@
     },
     {
       "customType": "BABYLON.TextureBlock",
-      "id": 41,
+      "id": 40,
       "name": "numberMaskTex",
       "comments": "",
       "visibleInInspector": false,
@@ -1076,7 +1076,7 @@
       "fragmentOnly": false,
       "texture": {
         "tags": null,
-        "url": "data:assets/gltf/d20_numbersMask.png",
+        "url": "data:https://patrickryanms.github.io/BabylonJStextures/Demos/d20_pbr/gltf/d20_numbersMask.png",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -1124,7 +1124,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 38,
+      "id": 41,
       "name": "metallic",
       "comments": "",
       "visibleInInspector": true,
@@ -1151,7 +1151,7 @@
     },
     {
       "customType": "BABYLON.LerpBlock",
-      "id": 16899,
+      "id": 42,
       "name": "Lerp",
       "comments": "",
       "visibleInInspector": false,
@@ -1160,7 +1160,7 @@
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 39,
+          "targetBlockId": 43,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1168,7 +1168,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 16758,
+          "targetBlockId": 44,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1176,7 +1176,7 @@
         {
           "name": "gradient",
           "inputName": "gradient",
-          "targetBlockId": 41,
+          "targetBlockId": 40,
           "targetConnectionName": "r",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1190,7 +1190,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 39,
+      "id": 43,
       "name": "roughness",
       "comments": "",
       "visibleInInspector": true,
@@ -1217,7 +1217,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 16758,
+      "id": 44,
       "name": "numberRoughness",
       "comments": "",
       "visibleInInspector": true,
@@ -1244,7 +1244,7 @@
     },
     {
       "customType": "BABYLON.ReflectionBlock",
-      "id": 40,
+      "id": 45,
       "name": "Reflection",
       "comments": "",
       "visibleInInspector": false,
@@ -1281,7 +1281,7 @@
     },
     {
       "customType": "BABYLON.SheenBlock",
-      "id": 15814,
+      "id": 46,
       "name": "Sheen",
       "comments": "",
       "visibleInInspector": false,
@@ -1290,7 +1290,7 @@
         {
           "name": "intensity",
           "inputName": "intensity",
-          "targetBlockId": 16366,
+          "targetBlockId": 47,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1298,7 +1298,7 @@
         {
           "name": "color",
           "inputName": "color",
-          "targetBlockId": 112,
+          "targetBlockId": 48,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1306,7 +1306,7 @@
         {
           "name": "roughness",
           "inputName": "roughness",
-          "targetBlockId": 15889,
+          "targetBlockId": 49,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1322,7 +1322,7 @@
     },
     {
       "customType": "BABYLON.OneMinusBlock",
-      "id": 16366,
+      "id": 47,
       "name": "One minus",
       "comments": "",
       "visibleInInspector": false,
@@ -1331,7 +1331,7 @@
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 41,
+          "targetBlockId": 40,
           "targetConnectionName": "r",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1345,7 +1345,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 112,
+      "id": 48,
       "name": "sheenColor",
       "comments": "",
       "visibleInInspector": true,
@@ -1366,17 +1366,17 @@
       "isConstant": false,
       "groupInInspector": "",
       "convertToGammaSpace": false,
-      "convertToLinearSpace": false,
+      "convertToLinearSpace": true,
       "valueType": "BABYLON.Color3",
       "value": [
-        0.6666666666666666,
-        0.07058823529411765,
-        0.9176470588235294
+        0.8,
+        0.3607843137254902,
+        0.984313725490196
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 15889,
+      "id": 49,
       "name": "sheenRoughness",
       "comments": "",
       "visibleInInspector": true,
@@ -1389,7 +1389,6 @@
       ],
       "type": 1,
       "mode": 0,
-      "systemValue": null,
       "animationType": 0,
       "min": 0,
       "max": 0,
