@@ -142,11 +142,6 @@
         "blockId": 53,
         "x": 280,
         "y": 1820
-      },
-      {
-        "blockId": 54,
-        "x": 280,
-        "y": 2060
       }
     ],
     "frames": [],
@@ -1112,47 +1107,6 @@
       "customType": "BABYLON.TextureBlock",
       "id": 53,
       "name": "brmTex",
-      "comments": "",
-      "visibleInInspector": false,
-      "visibleOnFrame": false,
-      "inputs": [
-        {
-          "name": "uv",
-          "inputName": "uv",
-          "targetBlockId": 43,
-          "targetConnectionName": "output",
-          "isExposedOnFrame": true,
-          "exposedPortPosition": -1
-        }
-      ],
-      "outputs": [
-        {
-          "name": "rgba"
-        },
-        {
-          "name": "rgb"
-        },
-        {
-          "name": "r"
-        },
-        {
-          "name": "g"
-        },
-        {
-          "name": "b"
-        },
-        {
-          "name": "a"
-        }
-      ],
-      "convertToGammaSpace": false,
-      "convertToLinearSpace": false,
-      "fragmentOnly": false
-    },
-    {
-      "customType": "BABYLON.TextureBlock",
-      "id": 54,
-      "name": "metalNormal",
       "comments": "",
       "visibleInInspector": false,
       "visibleOnFrame": false,
