@@ -235,12 +235,17 @@
         "blockId": 15228,
         "x": 800,
         "y": 1360
+      },
+      {
+        "blockId": 17509,
+        "x": 1100,
+        "y": 440
       }
     ],
     "frames": [],
-    "x": 914.2617931023807,
-    "y": 376.1070304550541,
-    "zoom": 0.37958325166248125
+    "x": 343.3824664952714,
+    "y": 170.3369613779847,
+    "zoom": 0.7397003733882805
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -574,7 +579,12 @@
           "name": "ambientColor"
         },
         {
-          "name": "reflection"
+          "name": "reflection",
+          "inputName": "reflection",
+          "targetBlockId": 17509,
+          "targetConnectionName": "reflection",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
         },
         {
           "name": "clearcoat"
@@ -2186,6 +2196,44 @@
         "samplingMode": 3,
         "_useSRGBBuffer": false
       }
+    },
+    {
+      "customType": "BABYLON.ReflectionBlock",
+      "id": 17509,
+      "name": "Reflection",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 3,
+      "inputs": [
+        {
+          "name": "position",
+          "inputName": "position",
+          "targetBlockId": 4,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "world",
+          "inputName": "world",
+          "targetBlockId": 5,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "color"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "reflection"
+        }
+      ],
+      "useSphericalHarmonics": true,
+      "forceIrradianceInFragment": false,
+      "gammaSpace": true
     },
     {
       "customType": "BABYLON.ConditionalBlock",
