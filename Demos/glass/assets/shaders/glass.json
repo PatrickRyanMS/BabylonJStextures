@@ -27,216 +27,256 @@
   "editorData": {
     "locations": [
       {
-        "blockId": 17,
-        "x": 1380,
+        "blockId": 14,
+        "x": 1180,
         "y": -300
       },
       {
-        "blockId": 18,
-        "x": 1020,
+        "blockId": 15,
+        "x": 820,
         "y": -300
+      },
+      {
+        "blockId": 16,
+        "x": 220,
+        "y": -100
+      },
+      {
+        "blockId": 17,
+        "x": -320,
+        "y": -60
+      },
+      {
+        "blockId": 18,
+        "x": -320,
+        "y": -160
       },
       {
         "blockId": 19,
         "x": 420,
-        "y": -100
-      },
-      {
-        "blockId": 20,
-        "x": -120,
-        "y": -60
-      },
-      {
-        "blockId": 21,
-        "x": -120,
-        "y": -160
-      },
-      {
-        "blockId": 22,
-        "x": 620,
         "y": -300
       },
       {
-        "blockId": 23,
+        "blockId": 20,
         "x": 4080,
         "y": 160
       },
       {
-        "blockId": 24,
+        "blockId": 21,
         "x": 3580,
         "y": 120
       },
       {
-        "blockId": 25,
+        "blockId": 22,
         "x": 2620,
         "y": -80
       },
       {
-        "blockId": 26,
-        "x": 420,
+        "blockId": 23,
+        "x": 220,
         "y": 40
       },
       {
-        "blockId": 27,
-        "x": -120,
+        "blockId": 24,
+        "x": -320,
         "y": 40
       },
       {
-        "blockId": 28,
+        "blockId": 25,
         "x": 2260,
         "y": -240
       },
       {
-        "blockId": 30,
+        "blockId": 26,
+        "x": 220,
+        "y": 460
+      },
+      {
+        "blockId": 27,
         "x": 2260,
         "y": 0
       },
       {
-        "blockId": 31,
+        "blockId": 28,
         "x": 2260,
         "y": 100
       },
       {
-        "blockId": 32,
+        "blockId": 29,
         "x": 2260,
         "y": 200
       },
       {
+        "blockId": 30,
+        "x": 1680,
+        "y": 380
+      },
+      {
+        "blockId": 31,
+        "x": 1420,
+        "y": 280
+      },
+      {
+        "blockId": 32,
+        "x": 1420,
+        "y": 380
+      },
+      {
         "blockId": 33,
         "x": 1140,
-        "y": 300
+        "y": 760
       },
       {
         "blockId": 34,
+        "x": 880,
+        "y": 620
+      },
+      {
+        "blockId": 35,
+        "x": 580,
+        "y": 560
+      },
+      {
+        "blockId": 36,
+        "x": 580,
+        "y": 680
+      },
+      {
+        "blockId": 37,
+        "x": 580,
+        "y": 780
+      },
+      {
+        "blockId": 38,
+        "x": 580,
+        "y": 900
+      },
+      {
+        "blockId": 40,
+        "x": 220,
+        "y": 900
+      },
+      {
+        "blockId": 41,
         "x": 2260,
         "y": 300
       },
       {
-        "blockId": 35,
-        "x": 420,
+        "blockId": 42,
+        "x": 220,
         "y": 180
       },
       {
-        "blockId": 36,
+        "blockId": 43,
         "x": 2260,
         "y": 500
       },
       {
-        "blockId": 37,
-        "x": 1960,
-        "y": 340
+        "blockId": 44,
+        "x": 1680,
+        "y": 100
       },
       {
-        "blockId": 38,
+        "blockId": 45,
+        "x": 1420,
+        "y": 20
+      },
+      {
+        "blockId": 46,
+        "x": 1420,
+        "y": 120
+      },
+      {
+        "blockId": 47,
         "x": 1960,
         "y": 440
       },
       {
-        "blockId": 39,
+        "blockId": 48,
         "x": 1960,
         "y": 540
       },
       {
-        "blockId": 40,
+        "blockId": 49,
         "x": 1960,
         "y": 640
       },
       {
-        "blockId": 41,
+        "blockId": 50,
         "x": 1960,
-        "y": 740
-      },
-      {
-        "blockId": 42,
-        "x": 1660,
-        "y": 660
-      },
-      {
-        "blockId": 43,
-        "x": 1660,
         "y": 760
       },
       {
-        "blockId": 44,
+        "blockId": 51,
+        "x": 1680,
+        "y": 640
+      },
+      {
+        "blockId": 52,
+        "x": 1420,
+        "y": 540
+      },
+      {
+        "blockId": 53,
+        "x": 1420,
+        "y": 640
+      },
+      {
+        "blockId": 54,
+        "x": 1400,
+        "y": 860
+      },
+      {
+        "blockId": 55,
+        "x": 1680,
+        "y": 800
+      },
+      {
+        "blockId": 56,
         "x": 3220,
         "y": -200
       },
       {
-        "blockId": 45,
+        "blockId": 57,
         "x": 2640,
         "y": -200
       },
       {
-        "blockId": 46,
+        "blockId": 58,
         "x": 2900,
         "y": -80
       },
       {
-        "blockId": 47,
+        "blockId": 59,
         "x": 2900,
         "y": 20
       },
       {
-        "blockId": 48,
+        "blockId": 60,
         "x": 3580,
         "y": -140
       },
       {
-        "blockId": 49,
+        "blockId": 61,
         "x": 3220,
         "y": -60
-      },
-      {
-        "blockId": 50,
-        "x": 1140,
-        "y": 540
-      },
-      {
-        "blockId": 51,
-        "x": 840,
-        "y": 560
-      },
-      {
-        "blockId": 52,
-        "x": 420,
-        "y": 460
-      },
-      {
-        "blockId": 53,
-        "x": 840,
-        "y": 680
-      },
-      {
-        "blockId": 54,
-        "x": 840,
-        "y": 780
-      },
-      {
-        "blockId": 4376,
-        "x": 1460,
-        "y": 400
-      },
-      {
-        "blockId": 4418,
-        "x": 1140,
-        "y": 420
       }
     ],
     "frames": [],
-    "x": 231.74115974987666,
-    "y": 350.1924098675412,
-    "zoom": 0.44442018344762474
+    "x": -136.49512870126813,
+    "y": 85.60801928517355,
+    "zoom": 0.40125093612311874
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
-    17,
-    23,
-    48
+    14,
+    20,
+    60
   ],
   "blocks": [
     {
       "customType": "BABYLON.VertexOutputBlock",
-      "id": 17,
+      "id": 14,
       "name": "VertexOutput",
       "comments": "",
       "visibleInInspector": false,
@@ -246,7 +286,7 @@
         {
           "name": "vector",
           "inputName": "vector",
-          "targetBlockId": 18,
+          "targetBlockId": 15,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -256,7 +296,7 @@
     },
     {
       "customType": "BABYLON.TransformBlock",
-      "id": 18,
+      "id": 15,
       "name": "WorldPos * ViewProjectionTransform",
       "comments": "",
       "visibleInInspector": false,
@@ -266,7 +306,7 @@
         {
           "name": "vector",
           "inputName": "vector",
-          "targetBlockId": 19,
+          "targetBlockId": 16,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -274,7 +314,7 @@
         {
           "name": "transform",
           "inputName": "transform",
-          "targetBlockId": 22,
+          "targetBlockId": 19,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -293,7 +333,7 @@
     },
     {
       "customType": "BABYLON.TransformBlock",
-      "id": 19,
+      "id": 16,
       "name": "WorldPos",
       "comments": "",
       "visibleInInspector": false,
@@ -303,7 +343,7 @@
         {
           "name": "vector",
           "inputName": "vector",
-          "targetBlockId": 20,
+          "targetBlockId": 17,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -311,7 +351,7 @@
         {
           "name": "transform",
           "inputName": "transform",
-          "targetBlockId": 21,
+          "targetBlockId": 18,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -330,7 +370,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 20,
+      "id": 17,
       "name": "position",
       "comments": "",
       "visibleInInspector": false,
@@ -356,7 +396,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 21,
+      "id": 18,
       "name": "World",
       "comments": "",
       "visibleInInspector": false,
@@ -383,7 +423,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 22,
+      "id": 19,
       "name": "ViewProjection",
       "comments": "",
       "visibleInInspector": false,
@@ -410,7 +450,7 @@
     },
     {
       "customType": "BABYLON.FragmentOutputBlock",
-      "id": 23,
+      "id": 20,
       "name": "FragmentOutput",
       "comments": "",
       "visibleInInspector": false,
@@ -425,7 +465,7 @@
         {
           "name": "rgb",
           "inputName": "rgb",
-          "targetBlockId": 24,
+          "targetBlockId": 21,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -433,7 +473,7 @@
         {
           "name": "a",
           "inputName": "a",
-          "targetBlockId": 25,
+          "targetBlockId": 22,
           "targetConnectionName": "alpha",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -443,7 +483,7 @@
     },
     {
       "customType": "BABYLON.ScaleBlock",
-      "id": 24,
+      "id": 21,
       "name": "Scale",
       "comments": "",
       "visibleInInspector": false,
@@ -453,7 +493,7 @@
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 25,
+          "targetBlockId": 22,
           "targetConnectionName": "lighting",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -461,7 +501,7 @@
         {
           "name": "factor",
           "inputName": "factor",
-          "targetBlockId": 44,
+          "targetBlockId": 56,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -475,7 +515,7 @@
     },
     {
       "customType": "BABYLON.PBRMetallicRoughnessBlock",
-      "id": 25,
+      "id": 22,
       "name": "PBRMetallicRoughness",
       "comments": "",
       "visibleInInspector": false,
@@ -485,7 +525,7 @@
         {
           "name": "worldPosition",
           "inputName": "worldPosition",
-          "targetBlockId": 19,
+          "targetBlockId": 16,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -493,7 +533,7 @@
         {
           "name": "worldNormal",
           "inputName": "worldNormal",
-          "targetBlockId": 26,
+          "targetBlockId": 23,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -501,7 +541,7 @@
         {
           "name": "view",
           "inputName": "view",
-          "targetBlockId": 28,
+          "targetBlockId": 25,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -509,7 +549,7 @@
         {
           "name": "cameraPosition",
           "inputName": "cameraPosition",
-          "targetBlockId": 52,
+          "targetBlockId": 26,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -522,7 +562,7 @@
         {
           "name": "baseColor",
           "inputName": "baseColor",
-          "targetBlockId": 30,
+          "targetBlockId": 27,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -530,7 +570,7 @@
         {
           "name": "metallic",
           "inputName": "metallic",
-          "targetBlockId": 31,
+          "targetBlockId": 28,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -538,7 +578,7 @@
         {
           "name": "roughness",
           "inputName": "roughness",
-          "targetBlockId": 32,
+          "targetBlockId": 29,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -549,7 +589,7 @@
         {
           "name": "opacity",
           "inputName": "opacity",
-          "targetBlockId": 4376,
+          "targetBlockId": 30,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -557,7 +597,7 @@
         {
           "name": "indexOfRefraction",
           "inputName": "indexOfRefraction",
-          "targetBlockId": 34,
+          "targetBlockId": 41,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -568,7 +608,7 @@
         {
           "name": "reflection",
           "inputName": "reflection",
-          "targetBlockId": 35,
+          "targetBlockId": 42,
           "targetConnectionName": "reflection",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -582,7 +622,7 @@
         {
           "name": "subsurface",
           "inputName": "subsurface",
-          "targetBlockId": 36,
+          "targetBlockId": 43,
           "targetConnectionName": "subsurface",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -638,7 +678,7 @@
       "useAlphaBlending": true,
       "useRadianceOverAlpha": true,
       "useSpecularOverAlpha": true,
-      "enableSpecularAntiAliasing": true,
+      "enableSpecularAntiAliasing": false,
       "realTimeFiltering": false,
       "realTimeFilteringQuality": 8,
       "useEnergyConservation": true,
@@ -652,7 +692,7 @@
     },
     {
       "customType": "BABYLON.TransformBlock",
-      "id": 26,
+      "id": 23,
       "name": "World normal",
       "comments": "",
       "visibleInInspector": false,
@@ -662,7 +702,7 @@
         {
           "name": "vector",
           "inputName": "vector",
-          "targetBlockId": 27,
+          "targetBlockId": 24,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -670,7 +710,7 @@
         {
           "name": "transform",
           "inputName": "transform",
-          "targetBlockId": 21,
+          "targetBlockId": 18,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -689,7 +729,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 27,
+      "id": 24,
       "name": "normal",
       "comments": "",
       "visibleInInspector": false,
@@ -715,7 +755,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 28,
+      "id": 25,
       "name": "view",
       "comments": "",
       "visibleInInspector": false,
@@ -742,7 +782,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 52,
+      "id": 26,
       "name": "cameraPosition",
       "comments": "",
       "visibleInInspector": false,
@@ -769,7 +809,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 30,
+      "id": 27,
       "name": "baseColor",
       "comments": "",
       "visibleInInspector": true,
@@ -801,7 +841,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 31,
+      "id": 28,
       "name": "metallicFactor",
       "comments": "",
       "visibleInInspector": true,
@@ -829,7 +869,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 32,
+      "id": 29,
       "name": "roughnessFactor",
       "comments": "",
       "visibleInInspector": true,
@@ -853,11 +893,11 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.38
+      "value": 0.07
     },
     {
       "customType": "BABYLON.LerpBlock",
-      "id": 4376,
+      "id": 30,
       "name": "Lerp",
       "comments": "",
       "visibleInInspector": false,
@@ -867,7 +907,7 @@
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 33,
+          "targetBlockId": 31,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -875,7 +915,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 4418,
+          "targetBlockId": 32,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -883,8 +923,8 @@
         {
           "name": "gradient",
           "inputName": "gradient",
-          "targetBlockId": 50,
-          "targetConnectionName": "fresnel",
+          "targetBlockId": 33,
+          "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
         }
@@ -897,7 +937,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 33,
+      "id": 31,
       "name": "opacityFactor",
       "comments": "",
       "visibleInInspector": true,
@@ -921,11 +961,11 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.67
+      "value": 0.46
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 4418,
+      "id": 32,
       "name": "opacityFactorF0",
       "comments": "",
       "visibleInInspector": true,
@@ -949,11 +989,43 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.06
+      "value": 0.19
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 33,
+      "name": "Multiply",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 34,
+          "targetConnectionName": "fresnel",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 38,
+          "targetConnectionName": "r",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
     },
     {
       "customType": "BABYLON.FresnelBlock",
-      "id": 50,
+      "id": 34,
       "name": "Fresnel",
       "comments": "",
       "visibleInInspector": false,
@@ -963,7 +1035,7 @@
         {
           "name": "worldNormal",
           "inputName": "worldNormal",
-          "targetBlockId": 26,
+          "targetBlockId": 23,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -971,7 +1043,7 @@
         {
           "name": "viewDirection",
           "inputName": "viewDirection",
-          "targetBlockId": 51,
+          "targetBlockId": 35,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -979,7 +1051,7 @@
         {
           "name": "bias",
           "inputName": "bias",
-          "targetBlockId": 53,
+          "targetBlockId": 36,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -987,7 +1059,7 @@
         {
           "name": "power",
           "inputName": "power",
-          "targetBlockId": 54,
+          "targetBlockId": 37,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1001,7 +1073,7 @@
     },
     {
       "customType": "BABYLON.ViewDirectionBlock",
-      "id": 51,
+      "id": 35,
       "name": "View direction",
       "comments": "",
       "visibleInInspector": false,
@@ -1011,7 +1083,7 @@
         {
           "name": "worldPosition",
           "inputName": "worldPosition",
-          "targetBlockId": 19,
+          "targetBlockId": 16,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1019,7 +1091,7 @@
         {
           "name": "cameraPosition",
           "inputName": "cameraPosition",
-          "targetBlockId": 52,
+          "targetBlockId": 26,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1033,7 +1105,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 53,
+      "id": 36,
       "name": "bias",
       "comments": "",
       "visibleInInspector": true,
@@ -1057,11 +1129,11 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.17
+      "value": 0.55
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 54,
+      "id": 37,
       "name": "power",
       "comments": "",
       "visibleInInspector": true,
@@ -1077,7 +1149,7 @@
       "mode": 0,
       "animationType": 0,
       "min": 0,
-      "max": 5,
+      "max": 20,
       "isBoolean": false,
       "matrixMode": 0,
       "isConstant": false,
@@ -1085,11 +1157,123 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 2.8
+      "value": 6.6
+    },
+    {
+      "customType": "BABYLON.TextureBlock",
+      "id": 38,
+      "name": "Texture",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 3,
+      "inputs": [
+        {
+          "name": "uv",
+          "inputName": "uv",
+          "targetBlockId": 40,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "rgba"
+        },
+        {
+          "name": "rgb"
+        },
+        {
+          "name": "r"
+        },
+        {
+          "name": "g"
+        },
+        {
+          "name": "b"
+        },
+        {
+          "name": "a"
+        },
+        {
+          "name": "level"
+        }
+      ],
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "fragmentOnly": false,
+      "disableLevelMultiplication": false,
+      "texture": {
+        "tags": null,
+        "url": "",
+        "uOffset": 0,
+        "vOffset": 0,
+        "uScale": 1,
+        "vScale": 1,
+        "uAng": 0,
+        "vAng": 0,
+        "wAng": 0,
+        "uRotationCenter": 0.5,
+        "vRotationCenter": 0.5,
+        "wRotationCenter": 0.5,
+        "homogeneousRotationInUVTransform": false,
+        "isBlocking": true,
+        "name": "data:octet/stream;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAIACAYAAABD1gYFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5QYeFxo1Six+kAAAAHZ0RVh0RmlsZSBOYW1lAEM6XFVzZXJzXHBhdHJpY3JcT25lRHJpdmUgLSBNaWNyb3NvZnRcMjAyMTA2MjhfZ2xhc3NEZW1vXGRlbW9cYXNzZXRzXHRleHR1cmVzXGRyaW5raW5nR2xhc3NSZWZyYWN0aW9uSW50LnBuZ1B9UmEAADuYaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA2LjAtYzAwNiA3OS5kYWJhY2JiLCAyMDIxLzA0LzE0LTAwOjM5OjQ0ICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIKICAgICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBQaG90b3Nob3AgMjIuNCAoV2luZG93cyk8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgICAgPHhtcDpDcmVhdGVEYXRlPjIwMjEtMDYtMzBUMTQ6MjQ6MzQtMDc6MDA8L3htcDpDcmVhdGVEYXRlPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAyMS0wNi0zMFQxNjoyNjo1MS0wNzowMDwveG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6TWV0YWRhdGFEYXRlPjIwMjEtMDYtMzBUMTY6MjY6NTEtMDc6MDA8L3htcDpNZXRhZGF0YURhdGU+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2UvcG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hvcDpDb2xvck1vZGU+CiAgICAgICAgIDx4bXBNTTpJbnN0YW5jZUlEPnhtcC5paWQ6MGY3ZDJkNjYtODAzNS1jYzRiLTljNmItNzJiZTY4MzBiMzE0PC94bXBNTTpJbnN0YW5jZUlEPgogICAgICAgICA8eG1wTU06RG9jdW1lbnRJRD5hZG9iZTpkb2NpZDpwaG90b3Nob3A6YTEzYTkwNTItMjBjZS1mODQ3LWE3ZTAtODIwZmUxN2I1YmQzPC94bXBNTTpEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06T3JpZ2luYWxEb2N1bWVudElEPnhtcC5kaWQ6MTEyYTNlMmMtMzVkNy02ZjRkLTk4ODAtYzMwMTI3ODYyNmJhPC94bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpIaXN0b3J5PgogICAgICAgICAgICA8cmRmOlNlcT4KICAgICAgICAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+Y3JlYXRlZDwvc3RFdnQ6YWN0aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAuaWlkOjExMmEzZTJjLTM1ZDctNmY0ZC05ODgwLWMzMDEyNzg2MjZiYTwvc3RFdnQ6aW5zdGFuY2VJRD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OndoZW4+MjAyMS0wNi0zMFQxNDoyNDozNC0wNzowMDwvc3RFdnQ6d2hlbj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRvYmUgUGhvdG9zaG9wIDIyLjQgKFdpbmRvd3MpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICA8L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+c2F2ZWQ8L3N0RXZ0OmFjdGlvbj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDo5Njc2NTRhZi03NjFhLTI4NDUtOWU2Ni1jNmUyYzA5ZjJlNGY8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDp3aGVuPjIwMjEtMDYtMzBUMTQ6MjktMDc6MDA8L3N0RXZ0OndoZW4+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCAyMi40IChXaW5kb3dzKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmNoYW5nZWQ+Lzwvc3RFdnQ6Y2hhbmdlZD4KICAgICAgICAgICAgICAgPC9yZGY6bGk+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPnNhdmVkPC9zdEV2dDphY3Rpb24+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDppbnN0YW5jZUlEPnhtcC5paWQ6MGY3ZDJkNjYtODAzNS1jYzRiLTljNmItNzJiZTY4MzBiMzE0PC9zdEV2dDppbnN0YW5jZUlEPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6d2hlbj4yMDIxLTA2LTMwVDE2OjI2OjUxLTA3OjAwPC9zdEV2dDp3aGVuPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6c29mdHdhcmVBZ2VudD5BZG9iZSBQaG90b3Nob3AgMjIuNCAoV2luZG93cyk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDpjaGFuZ2VkPi88L3N0RXZ0OmNoYW5nZWQ+CiAgICAgICAgICAgICAgIDwvcmRmOmxpPgogICAgICAgICAgICA8L3JkZjpTZXE+CiAgICAgICAgIDwveG1wTU06SGlzdG9yeT4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+NzIwMDAwLzEwMDAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43MjAwMDAvMTAwMDA8L3RpZmY6WVJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25Vbml0PjI8L3RpZmY6UmVzb2x1dGlvblVuaXQ+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+NjU1MzU8L2V4aWY6Q29sb3JTcGFjZT4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjE8L2V4aWY6UGl4ZWxYRGltZW5zaW9uPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+NTEyPC9leGlmOlBpeGVsWURpbWVuc2lvbj4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/eHBhY2tldCBlbmQ9InciPz5RxoYfAAAAGHRFWHRTb2Z0d2FyZQBBZG9iZSBQaG90b3Nob3A0y45nAAAAD3RFWHRXcml0ZXIAU3VwZXJQTkfFxK/dAAAAL0lEQVRIx+3WMQ0AIBAEwQ0YR9QpewOHCkKzzWgY2nYBiIiIiMhPkrBn5gA8DNoFSycOaw7WzbYAAAAASUVORK5CYII=",
+        "hasAlpha": false,
+        "getAlphaFromRGB": false,
+        "level": 1,
+        "coordinatesIndex": 0,
+        "coordinatesMode": 7,
+        "wrapU": 1,
+        "wrapV": 1,
+        "wrapR": 1,
+        "anisotropicFilteringLevel": 4,
+        "isCube": false,
+        "is3D": false,
+        "is2DArray": false,
+        "gammaSpace": true,
+        "invertZ": false,
+        "lodLevelInAlpha": false,
+        "lodGenerationOffset": 0,
+        "lodGenerationScale": 0,
+        "linearSpecularLOD": false,
+        "isRenderTarget": false,
+        "animations": [],
+        "invertY": false,
+        "samplingMode": 3,
+        "_useSRGBBuffer": false
+      }
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 34,
+      "id": 40,
+      "name": "uv",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 4,
+      "mode": 1,
+      "animationType": 0,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 41,
       "name": "iorFactor",
       "comments": "",
       "visibleInInspector": true,
@@ -1117,7 +1301,7 @@
     },
     {
       "customType": "BABYLON.ReflectionBlock",
-      "id": 35,
+      "id": 42,
       "name": "Reflection",
       "comments": "",
       "visibleInInspector": false,
@@ -1127,7 +1311,7 @@
         {
           "name": "position",
           "inputName": "position",
-          "targetBlockId": 20,
+          "targetBlockId": 17,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1135,7 +1319,7 @@
         {
           "name": "world",
           "inputName": "world",
-          "targetBlockId": 21,
+          "targetBlockId": 18,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1155,7 +1339,7 @@
     },
     {
       "customType": "BABYLON.SubSurfaceBlock",
-      "id": 36,
+      "id": 43,
       "name": "SubSurface",
       "comments": "",
       "visibleInInspector": false,
@@ -1165,7 +1349,7 @@
         {
           "name": "thickness",
           "inputName": "thickness",
-          "targetBlockId": 37,
+          "targetBlockId": 44,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1173,7 +1357,7 @@
         {
           "name": "tintColor",
           "inputName": "tintColor",
-          "targetBlockId": 38,
+          "targetBlockId": 47,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1181,7 +1365,7 @@
         {
           "name": "translucencyIntensity",
           "inputName": "translucencyIntensity",
-          "targetBlockId": 39,
+          "targetBlockId": 48,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1189,7 +1373,7 @@
         {
           "name": "translucencyDiffusionDist",
           "inputName": "translucencyDiffusionDist",
-          "targetBlockId": 40,
+          "targetBlockId": 49,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1197,7 +1381,7 @@
         {
           "name": "refraction",
           "inputName": "refraction",
-          "targetBlockId": 41,
+          "targetBlockId": 50,
           "targetConnectionName": "refraction",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1210,13 +1394,53 @@
       ]
     },
     {
+      "customType": "BABYLON.LerpBlock",
+      "id": 44,
+      "name": "Lerp",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 45,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 46,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 33,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
       "customType": "BABYLON.InputBlock",
-      "id": 37,
-      "name": "SubSurface thickness",
+      "id": 45,
+      "name": "thickness",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
-      "target": 2,
+      "target": 1,
       "inputs": [],
       "outputs": [
         {
@@ -1227,7 +1451,7 @@
       "mode": 0,
       "animationType": 0,
       "min": 0,
-      "max": 1,
+      "max": 10,
       "isBoolean": false,
       "matrixMode": 0,
       "isConstant": false,
@@ -1235,11 +1459,39 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.88
+      "value": 3.9
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 38,
+      "id": 46,
+      "name": "thicknessF0",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 10,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 1.5
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 47,
       "name": "tintColor",
       "comments": "",
       "visibleInInspector": true,
@@ -1264,14 +1516,14 @@
       "convertToLinearSpace": false,
       "valueType": "BABYLON.Color3",
       "value": [
-        1,
-        1,
-        1
+        0.9411764705882353,
+        0.9725490196078431,
+        0.9803921568627451
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 39,
+      "id": 48,
       "name": "transInt",
       "comments": "",
       "visibleInInspector": true,
@@ -1295,11 +1547,11 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 0.75
+      "value": 1
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 40,
+      "id": 49,
       "name": "difusionDist",
       "comments": "",
       "visibleInInspector": true,
@@ -1331,7 +1583,7 @@
     },
     {
       "customType": "BABYLON.RefractionBlock",
-      "id": 41,
+      "id": 50,
       "name": "Refraction",
       "comments": "",
       "visibleInInspector": false,
@@ -1341,7 +1593,7 @@
         {
           "name": "intensity",
           "inputName": "intensity",
-          "targetBlockId": 42,
+          "targetBlockId": 51,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1349,7 +1601,7 @@
         {
           "name": "tintAtDistance",
           "inputName": "tintAtDistance",
-          "targetBlockId": 43,
+          "targetBlockId": 55,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1370,13 +1622,53 @@
       "useThicknessAsDepth": false
     },
     {
+      "customType": "BABYLON.LerpBlock",
+      "id": 51,
+      "name": "Lerp",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 52,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 53,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 54,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
       "customType": "BABYLON.InputBlock",
-      "id": 42,
-      "name": "Refraction intensity",
+      "id": 52,
+      "name": "refrMin",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
-      "target": 2,
+      "target": 1,
       "inputs": [],
       "outputs": [
         {
@@ -1387,7 +1679,35 @@
       "mode": 0,
       "animationType": 0,
       "min": 0,
-      "max": 1,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 0.02
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 53,
+      "name": "refrMax",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 0,
       "isBoolean": false,
       "matrixMode": 0,
       "isConstant": false,
@@ -1398,8 +1718,32 @@
       "value": 1
     },
     {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 54,
+      "name": "One minus",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 33,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
       "customType": "BABYLON.InputBlock",
-      "id": 43,
+      "id": 55,
       "name": "tintAtDist",
       "comments": "",
       "visibleInInspector": true,
@@ -1427,7 +1771,7 @@
     },
     {
       "customType": "BABYLON.LerpBlock",
-      "id": 44,
+      "id": 56,
       "name": "Lerp",
       "comments": "",
       "visibleInInspector": false,
@@ -1437,7 +1781,7 @@
         {
           "name": "left",
           "inputName": "left",
-          "targetBlockId": 45,
+          "targetBlockId": 57,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1445,7 +1789,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 46,
+          "targetBlockId": 58,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1453,7 +1797,7 @@
         {
           "name": "gradient",
           "inputName": "gradient",
-          "targetBlockId": 47,
+          "targetBlockId": 59,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1467,7 +1811,7 @@
     },
     {
       "customType": "BABYLON.FrontFacingBlock",
-      "id": 45,
+      "id": 57,
       "name": "Front facing",
       "comments": "",
       "visibleInInspector": false,
@@ -1482,7 +1826,7 @@
     },
     {
       "customType": "BABYLON.OneMinusBlock",
-      "id": 46,
+      "id": 58,
       "name": "One minus",
       "comments": "",
       "visibleInInspector": false,
@@ -1492,7 +1836,7 @@
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 45,
+          "targetBlockId": 57,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1506,7 +1850,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 47,
+      "id": 59,
       "name": "revNormal",
       "comments": "",
       "visibleInInspector": true,
@@ -1534,7 +1878,7 @@
     },
     {
       "customType": "BABYLON.DiscardBlock",
-      "id": 48,
+      "id": 60,
       "name": "Discard",
       "comments": "",
       "visibleInInspector": false,
@@ -1544,7 +1888,7 @@
         {
           "name": "value",
           "inputName": "value",
-          "targetBlockId": 44,
+          "targetBlockId": 56,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1552,7 +1896,7 @@
         {
           "name": "cutoff",
           "inputName": "cutoff",
-          "targetBlockId": 49,
+          "targetBlockId": 61,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1562,7 +1906,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 49,
+      "id": 61,
       "name": "Float",
       "comments": "",
       "visibleInInspector": false,
