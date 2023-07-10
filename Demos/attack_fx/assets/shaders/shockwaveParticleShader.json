@@ -408,7 +408,7 @@
       "disableLevelMultiplication": false,
       "texture": {
         "tags": null,
-        "url": "./assets/textures/shockwave_particle.svg",
+        "url": "",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -421,7 +421,7 @@
         "wRotationCenter": 0.5,
         "homogeneousRotationInUVTransform": false,
         "isBlocking": true,
-        "name": "./assets/textures/shockwave_particle.svg",
+        "name": "",
         "hasAlpha": false,
         "getAlphaFromRGB": false,
         "level": 1,
