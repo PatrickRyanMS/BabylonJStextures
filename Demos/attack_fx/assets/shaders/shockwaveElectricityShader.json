@@ -1540,7 +1540,7 @@
       ],
       "texture": {
         "tags": null,
-        "url": "./assets/textures/electricityNoise_displacement.png",
+        "url": "",
         "uOffset": 0,
         "vOffset": 0,
         "uScale": 1,
@@ -1553,7 +1553,7 @@
         "wRotationCenter": 0.5,
         "homogeneousRotationInUVTransform": false,
         "isBlocking": true,
-        "name": "./assets/textures/electricityNoise_displacement.png",
+        "name": "",
         "hasAlpha": false,
         "getAlphaFromRGB": false,
         "level": 1,
