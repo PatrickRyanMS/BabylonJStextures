@@ -1,0 +1,508 @@
+{
+  "tags": null,
+  "name": "node",
+  "editorData": {
+    "locations": [
+      {
+        "blockId": 44,
+        "x": 2075,
+        "y": 500
+      },
+      {
+        "blockId": 45,
+        "x": 350,
+        "y": 400
+      },
+      {
+        "blockId": 46,
+        "x": -50,
+        "y": 400
+      },
+      {
+        "blockId": 47,
+        "x": -50,
+        "y": 500
+      },
+      {
+        "blockId": 48,
+        "x": -25,
+        "y": 1000
+      },
+      {
+        "blockId": 49,
+        "x": 350,
+        "y": 1000
+      },
+      {
+        "blockId": 50,
+        "x": 350,
+        "y": 675
+      },
+      {
+        "blockId": 51,
+        "x": 700,
+        "y": 650
+      },
+      {
+        "blockId": 52,
+        "x": 700,
+        "y": 1000
+      },
+      {
+        "blockId": 53,
+        "x": 350,
+        "y": 1300
+      },
+      {
+        "blockId": 54,
+        "x": 1000,
+        "y": 900
+      },
+      {
+        "blockId": 55,
+        "x": 1550,
+        "y": 500
+      },
+      {
+        "blockId": 56,
+        "x": 1275,
+        "y": 650
+      },
+      {
+        "blockId": 57,
+        "x": -25,
+        "y": 1250
+      },
+      {
+        "blockId": 58,
+        "x": 1800,
+        "y": 500
+      }
+    ],
+    "frames": [],
+    "x": 144.38839472,
+    "y": 79.79186594000004,
+    "zoom": 0.43046721
+  },
+  "customType": "BABYLON.NodeGeometry",
+  "outputNodeId": 44,
+  "blocks": [
+    {
+      "customType": "BABYLON.GeometryOutputBlock",
+      "id": 44,
+      "name": "Geometry Output",
+      "inputs": [
+        {
+          "name": "geometry",
+          "inputName": "geometry",
+          "targetBlockId": 58,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "customType": "BABYLON.GridBlock",
+      "id": 45,
+      "name": "Grid",
+      "inputs": [
+        {
+          "name": "width",
+          "valueType": "number",
+          "value": 1,
+          "inputName": "width",
+          "targetBlockId": 46,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "height",
+          "valueType": "number",
+          "value": 1,
+          "inputName": "height",
+          "targetBlockId": 47,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "subdivisions",
+          "valueType": "number",
+          "value": 200
+        },
+        {
+          "name": "subdivisionsX",
+          "valueType": "number",
+          "value": 0
+        },
+        {
+          "name": "subdivisionsY",
+          "valueType": "number",
+          "value": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "geometry"
+        }
+      ],
+      "evaluateContext": false
+    },
+    {
+      "customType": "BABYLON.GeometryInputBlock",
+      "id": 46,
+      "name": "Width",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 2,
+      "contextualValue": 0,
+      "min": 0,
+      "max": 0,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 1
+    },
+    {
+      "customType": "BABYLON.GeometryInputBlock",
+      "id": 47,
+      "name": "Height",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 2,
+      "contextualValue": 0,
+      "min": 0,
+      "max": 0,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 1
+    },
+    {
+      "customType": "BABYLON.GeometryTextureBlock",
+      "id": 48,
+      "name": "Texture",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texture"
+        }
+      ],
+      "width": 128,
+      "height": 128,
+      "serializedCachedData": false
+    },
+    {
+      "customType": "BABYLON.GeometryTextureFetchBlock",
+      "id": 49,
+      "name": "Texture Fetch",
+      "inputs": [
+        {
+          "name": "texture",
+          "inputName": "texture",
+          "targetBlockId": 48,
+          "targetConnectionName": "texture"
+        },
+        {
+          "name": "coordinates",
+          "inputName": "coordinates",
+          "targetBlockId": 57,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "rgba"
+        },
+        {
+          "name": "rgb"
+        },
+        {
+          "name": "r"
+        },
+        {
+          "name": "g"
+        },
+        {
+          "name": "b"
+        },
+        {
+          "name": "a"
+        }
+      ],
+      "clampCoordinates": true
+    },
+    {
+      "customType": "BABYLON.GeometryInputBlock",
+      "id": 50,
+      "name": "Positions",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 8,
+      "contextualValue": 1,
+      "min": 0,
+      "max": 0,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.VectorConverterBlock",
+      "id": 51,
+      "name": "Converter",
+      "inputs": [
+        {
+          "name": "xyzw "
+        },
+        {
+          "name": "xyz ",
+          "inputName": "xyz ",
+          "targetBlockId": 50,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "xy "
+        },
+        {
+          "name": "zw "
+        },
+        {
+          "name": "x "
+        },
+        {
+          "name": "y "
+        },
+        {
+          "name": "z "
+        },
+        {
+          "name": "w "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyzw"
+        },
+        {
+          "name": "xyz"
+        },
+        {
+          "name": "xy"
+        },
+        {
+          "name": "zw"
+        },
+        {
+          "name": "x"
+        },
+        {
+          "name": "y"
+        },
+        {
+          "name": "z"
+        },
+        {
+          "name": "w"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MathBlock",
+      "id": 52,
+      "name": "Multiply",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 49,
+          "targetConnectionName": "g"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 53,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "operation": 2
+    },
+    {
+      "customType": "BABYLON.GeometryInputBlock",
+      "id": 53,
+      "name": "Float",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 2,
+      "contextualValue": 0,
+      "min": 0,
+      "max": 0,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.3
+    },
+    {
+      "customType": "BABYLON.MathBlock",
+      "id": 54,
+      "name": "Add",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 51,
+          "targetConnectionName": "y"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 52,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "operation": 0
+    },
+    {
+      "customType": "BABYLON.SetPositionsBlock",
+      "id": 55,
+      "name": "Set positions",
+      "inputs": [
+        {
+          "name": "geometry",
+          "inputName": "geometry",
+          "targetBlockId": 45,
+          "targetConnectionName": "geometry"
+        },
+        {
+          "name": "positions",
+          "inputName": "positions",
+          "targetBlockId": 56,
+          "targetConnectionName": "xyz"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "evaluateContext": true
+    },
+    {
+      "customType": "BABYLON.VectorConverterBlock",
+      "id": 56,
+      "name": "Converter",
+      "inputs": [
+        {
+          "name": "xyzw "
+        },
+        {
+          "name": "xyz "
+        },
+        {
+          "name": "xy "
+        },
+        {
+          "name": "zw "
+        },
+        {
+          "name": "x ",
+          "inputName": "x ",
+          "targetBlockId": 51,
+          "targetConnectionName": "x"
+        },
+        {
+          "name": "y ",
+          "inputName": "y ",
+          "targetBlockId": 54,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "z ",
+          "inputName": "z ",
+          "targetBlockId": 51,
+          "targetConnectionName": "z"
+        },
+        {
+          "name": "w "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyzw"
+        },
+        {
+          "name": "xyz"
+        },
+        {
+          "name": "xy"
+        },
+        {
+          "name": "zw"
+        },
+        {
+          "name": "x"
+        },
+        {
+          "name": "y"
+        },
+        {
+          "name": "z"
+        },
+        {
+          "name": "w"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.GeometryInputBlock",
+      "id": 57,
+      "name": "UVs",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 4,
+      "contextualValue": 4,
+      "min": 0,
+      "max": 0,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.ComputeNormalsBlock",
+      "id": 58,
+      "name": "Compute normals",
+      "inputs": [
+        {
+          "name": "geometry",
+          "inputName": "geometry",
+          "targetBlockId": 55,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    }
+  ]
+}
